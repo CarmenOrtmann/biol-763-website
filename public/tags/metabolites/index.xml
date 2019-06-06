@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>metabolites on Biology UKZN</title>
+    <link>/tags/metabolites/</link>
+    <description>Recent content in metabolites on Biology UKZN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 Jun 2019 00:02:01 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/metabolites/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A closer look at secondary metabolites</title>
+      <link>/post/secondary-metabolites/</link>
+      <pubDate>Wed, 05 Jun 2019 00:02:01 +0000</pubDate>
+      
+      <guid>/post/secondary-metabolites/</guid>
+      <description>Whilst primary metabolites include only a small range of compounds (proteins, carbohydrates, and lipids), secondary metabolites entail a wide range of compounds (alkaloids, steroids, flavonoids, tannins, phenolics etcetera) (Class notes, Prof Finnie, 2019). Most secondary metabolite compounds are produced by plants as a defence mechanism, protecting themselves against toxins and pathogens in their surroundings (Bourgaud et al., 2001). Some compounds in this group are have the ability to protect plants against harmful ultra violet rays whilst others release toxins that deter herbivorous insects and animals (Bourgaud et al.</description>
+    </item>
+    
+  </channel>
+</rss>
