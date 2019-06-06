@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Biology UKZN</title>
+    <link>/authors/carmen/</link>
+    <description>Recent content on Biology UKZN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 Jun 2019 00:05:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/carmen/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How much has biotechnology evolved since the 1980s?</title>
+      <link>/post/biotech-now/</link>
+      <pubDate>Wed, 05 Jun 2019 00:05:00 +0000</pubDate>
+      
+      <guid>/post/biotech-now/</guid>
+      <description>The difficulty with extraction and purification of secondary metabolites is that it is 1) difficult 2) costly and 3) time consuming. MacQueen (1988) highlighted some problems with the extraction of secondary metabolites and many of those difficulties are still problematic today.
+Current technologies include:Biopharming or plant molecular farming is to genetically modify plants for the manufacturing of various pharmaceuticals and industrial products. For example, genetically modifying tobacco with desired therapeutic proteins could lead to the manufacturing of vaccines and antibodies to treat life-long diseases such as cancer.</description>
+    </item>
+    
+    <item>
+      <title>Examples of the uses of secondary metabolites</title>
+      <link>/post/examples/</link>
+      <pubDate>Wed, 05 Jun 2019 00:04:00 +0000</pubDate>
+      
+      <guid>/post/examples/</guid>
+      <description>Although plants may survive without the use of secondary metabolites. The extracts of these compounds have great advantages:For exampleShikonine is a red pigment that is manufactured by Lithospermum eryrorhizon cells which has been used for cosmetics such as lipsticks.
+Vincristine is manufactured by Vinca rosea and is helpful for treating cancer.
+Other compounds which used to treat cardiovascular disorders include Digoxin compounds.
+And Pyrithrin is a compound used as an insecticide.</description>
+    </item>
+    
+    <item>
+      <title>Are secondary metabolites less important?</title>
+      <link>/post/importance/</link>
+      <pubDate>Wed, 05 Jun 2019 00:03:02 +0000</pubDate>
+      
+      <guid>/post/importance/</guid>
+      <description>Secondary metabolites were first distinguished from primary metabolites by Kossel (Bourgaud et al., 2001). However, although the traditional name “secondary metabolites” has existed for decades name, this name may give the impression that these chemicals are of less importance than primary metabolites. This is not always the case, for example, if a secondary metabolite is used for pollination purposes, the plant may only need the chemical as a mature plant but if the plant cannot produce by asexual means, it would need such chemicals to further its population.</description>
+    </item>
+    
+    <item>
+      <title>A closer look at secondary metabolites</title>
+      <link>/post/secondary-metabolites/</link>
+      <pubDate>Wed, 05 Jun 2019 00:02:01 +0000</pubDate>
+      
+      <guid>/post/secondary-metabolites/</guid>
+      <description>Whilst primary metabolites include only a small range of compounds (proteins, carbohydrates, and lipids), secondary metabolites entail a wide range of compounds (alkaloids, steroids, flavonoids, tannins, phenolics etcetera) (Class notes, Prof Finnie, 2019). Most secondary metabolite compounds are produced by plants as a defence mechanism, protecting themselves against toxins and pathogens in their surroundings (Bourgaud et al., 2001). Some compounds in this group are have the ability to protect plants against harmful UV rays whilst others release toxins that deter herbivorous insects and animals (Bourgaud et al.</description>
+    </item>
+    
+    <item>
+      <title>An overview - Plants, biotechnology and metabolites</title>
+      <link>/post/metabolites/</link>
+      <pubDate>Wed, 05 Jun 2019 00:01:00 +0000</pubDate>
+      
+      <guid>/post/metabolites/</guid>
+      <description>Plants have been used as a source of traditional medicine for decades (Fennell et al., 2004). The authors (Fennell et al., 2004) mention the important uses of plant compounds, they include antibacterial, anti-inflammatory, antioxidant, antifungal, antischistosomal, anthelminthic, antimalarial and anti-amoebic (Fennell et al., 2004). However, with the increased uses of plants, new methodology is needed to make the extraction and purification of compounds from plants easier and to produce higher quantities of the compounds, often for commercial purposes, this is often done by in vitro methods (Bourgaud et al.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/carmen/</link>
+      <pubDate>Wed, 05 Jun 2019 00:05:00 +0000</pubDate>
+      
+      <guid>/authors/carmen/</guid>
+      <description>Biotechnology and secondary metabolites in the 1980s The paper, “Biotechnology puts the squeeze on plants” by Hilary MacQueen indicates the extent to which biotechnology has advanced over the last few decades. MacQueen (1988) outlines some of the first biotechnological techniques that were used to extract useful substances from plant cells, whilst highlighting some of the problems that biotechnologists came across in that decade. Some of these problems included 1) plants needing precise concentrations of a combination of conditions such as light, temperature, hormones etcetera, 2) for cellular conditions to take place, cells needed to be stirred and this would often lead to damaged or clumped cells, hence the desired product would either be high or low, 3) the desired products are also not always produced, or if the desired product has high toxicity, cells need to be treated with more care to ensure that they are not killed or that they do not produce low yields, 4) there were difficulties in producing primary and secondary metabolites as a precise stage would be needed for either of them (MacQueen, 1988).</description>
+    </item>
+    
+  </channel>
+</rss>

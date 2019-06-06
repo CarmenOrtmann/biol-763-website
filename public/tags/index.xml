@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Biology UKZN</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Biology UKZN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 Jun 2019 00:03:02 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Zaluzianskya</title>
+      <link>/tags/zaluzianskya/</link>
+      <pubDate>Wed, 05 Jun 2019 00:03:02 +0000</pubDate>
+      
+      <guid>/tags/zaluzianskya/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>antibiotic</title>
+      <link>/tags/antibiotic/</link>
+      <pubDate>Wed, 05 Jun 2019 00:03:02 +0000</pubDate>
+      
+      <guid>/tags/antibiotic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chemical</title>
+      <link>/tags/chemical/</link>
+      <pubDate>Wed, 05 Jun 2019 00:03:02 +0000</pubDate>
+      
+      <guid>/tags/chemical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>complexity</title>
+      <link>/tags/complexity/</link>
+      <pubDate>Wed, 05 Jun 2019 00:03:02 +0000</pubDate>
+      
+      <guid>/tags/complexity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>primary</title>
+      <link>/tags/primary/</link>
+      <pubDate>Wed, 05 Jun 2019 00:03:02 +0000</pubDate>
+      
+      <guid>/tags/primary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>secondary</title>
+      <link>/tags/secondary/</link>
+      <pubDate>Wed, 05 Jun 2019 00:03:02 +0000</pubDate>
+      
+      <guid>/tags/secondary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Source Themes</title>
+      <link>/tags/source-themes/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/source-themes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>/tags/deep-learning/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demo</title>
+      <link>/tags/demo/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/demo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+---
+authors:
+- Carmen
+categories: []
+date: "2019-06-05T00:03:02Z"
+draft: false
+featured: false
+image:
+  caption: ""
+  focal_point: ""
+projects: []
+subtitle: 
+summary: 
+tags: [primary, secondary, chemical, Zaluzianskya, antibiotic, complexity]
+title: Are secondary metabolites less important?
+---
+
+Secondary metabolites were first distinguished from primary metabolites by Kossel (Bourgaud et al., 2001). However, although the traditional name “secondary metabolites” has existed for decades name, this name may give the impression that these chemicals are of less importance than primary metabolites. This is not always the case, for example, if a secondary metabolite is used for pollination purposes, the plant may only need the chemical as a mature plant but if the plant cannot produce by asexual means, it would need such chemicals to further its population. To illustrate an example of the importance of volatiles in pollination biology, two Zaluzianskya flower species have overlapping opening times but one is pollinated by hawkmoths and the other by flies, and Campbell et al. (2016) found that hawkmoths were attracted to the one species over the other due to the combination of the scent and orientation of the flowers.   
+
+
+```{r, fig.cap="A hawkmoth visiting the night blooming *Zaluzianskya capensis*.  [Click here to see more.](https://nph.onlinelibrary.wiley.com/doi/pdf/10.1111/nph.13746)", echo=FALSE}
+knitr::include_graphics("./hawkmoth.jpg")
+```
+
+The vacuity of the definition of a secondary metabolite is somewhat confusing and thus there has been debate around this term (Price-Whelan et al., 2006). A study by Price-Whelan et al. (2006) uses the roles of a secondary metabolite – phenazine antibiotics to contest the use of secondary metabolites. Explain further….   
+
+The wide range of chemicals and compounds that currently constitute secondary metabolites makes it difficult to rename. In addition, renaming this term may lead to complexity or we may stray further from the correct grouping. In my opinion, ‘secondary metabolites’ has been given a term that is too broad and might need to be split into more than one term. However, literature highlights that the differences between the compounds within this group are difficult to determine especially since there they are classified as relatively rare and specific.   
+
+Come up with one name. 
+ 
+
+
+```{r, fig.cap="An example of plant biotechnology: A cell suspension culture showing friable callus (a mass of undifferentiated cells) from the hypocotyl of a plant.", echo=FALSE}
+knitr::include_graphics("./callus.jpeg")
+``` 
+
+
+__________________________________________________________________________
+
+ 
