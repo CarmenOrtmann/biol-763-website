@@ -11,7 +11,7 @@ image:
 projects: []
 subtitle: 
 summary: 
-tags: []
+tags: [vaccines, antibodies, pharmaceuticals]
 title: How much has biotechnology evolved since the 1980s?  
 ---
 The difficulty with extraction and purification of secondary metabolites is that it is 1) difficult 2) costly and 3) time consuming. MacQueen (1988) highlighted some problems with the extraction of secondary metabolites and many of those difficulties are still problematic today.   

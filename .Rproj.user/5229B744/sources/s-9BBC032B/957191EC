@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1559856355167.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3752164229",
+    "id" : "957191EC",
+    "lastKnownWriteTime" : 1559856541,
+    "last_content_update" : 1559856541392,
+    "path" : "~/R/Projects/biol-763-website/content/post/examples/index.Rmd",
+    "project_path" : "content/post/examples/index.Rmd",
+    "properties" : {
+        "cursorPosition" : "22,22",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
