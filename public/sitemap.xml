@@ -3,38 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/courses/example/example1/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/courses/example/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/courses/example/example2/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/talk/example/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/carmen/</loc>
+    <lastmod>2019-06-05T00:05:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/metabolites/</loc>
     <lastmod>2019-06-05T00:05:00+00:00</lastmod>
   </url>
   
@@ -45,8 +19,9 @@
   </url>
   
   <url>
-    <loc>/post/biotech-now/</loc>
+    <loc>/</loc>
     <lastmod>2019-06-05T00:05:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -61,26 +36,80 @@
   </url>
   
   <url>
-    <loc>/tags/antibodies/</loc>
+    <loc>/tags/biotechnology/</loc>
     <lastmod>2019-06-05T00:05:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/pharmaceuticals/</loc>
+    <loc>/tags/genetic-modificaiton/</loc>
     <lastmod>2019-06-05T00:05:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/vaccines/</loc>
+    <loc>/tags/metabolites/</loc>
     <lastmod>2019-06-05T00:05:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/examples/</loc>
-    <lastmod>2019-06-05T00:04:00+00:00</lastmod>
+    <loc>/tags/primary/</loc>
+    <lastmod>2019-06-05T00:05:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/secondary/</loc>
+    <lastmod>2019-06-05T00:05:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/survival/</loc>
+    <lastmod>2019-06-05T00:05:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/traditional-medicine/</loc>
+    <lastmod>2019-06-05T00:05:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/secondary-metabolites/</loc>
+    <lastmod>2019-06-05T00:04:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/compounds/</loc>
+    <lastmod>2019-06-05T00:04:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/economic/</loc>
+    <lastmod>2019-06-05T00:04:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/in-vitro/</loc>
+    <lastmod>2019-06-05T00:04:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/pathways/</loc>
+    <lastmod>2019-06-05T00:04:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/toxicity/</loc>
+    <lastmod>2019-06-05T00:04:01+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -113,87 +142,73 @@
   </url>
   
   <url>
-    <loc>/tags/primary/</loc>
+    <loc>/tags/functional/</loc>
     <lastmod>2019-06-05T00:03:02+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/secondary/</loc>
-    <lastmod>2019-06-05T00:03:02+00:00</lastmod>
+    <loc>/post/examples/</loc>
+    <lastmod>2019-06-05T00:03:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/shikonine/</loc>
+    <lastmod>2019-06-05T00:03:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/secondary-metabolites/</loc>
-    <lastmod>2019-06-05T00:02:01+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/compounds/</loc>
-    <lastmod>2019-06-05T00:02:01+00:00</lastmod>
+    <loc>/tags/medicine/</loc>
+    <lastmod>2019-06-05T00:03:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/metabolites/</loc>
-    <lastmod>2019-06-05T00:02:01+00:00</lastmod>
+    <loc>/tags/pesticide/</loc>
+    <lastmod>2019-06-05T00:03:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/pathways/</loc>
-    <lastmod>2019-06-05T00:02:01+00:00</lastmod>
+    <loc>/post/biotech-now/</loc>
+    <lastmod>2019-06-05T00:02:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/antibodies/</loc>
+    <lastmod>2019-06-05T00:02:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/metabolites/</loc>
-    <lastmod>2019-06-05T00:01:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/admin/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/3/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <loc>/tags/biopharming/</loc>
+    <lastmod>2019-06-05T00:02:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/publication/preprint/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <loc>/tags/hairy-root-culture/</loc>
+    <lastmod>2019-06-05T00:02:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/publication/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/source-themes/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <loc>/tags/pharmaceuticals/</loc>
+    <lastmod>2019-06-05T00:02:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/slides/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    <loc>/tags/tissue-culture/</loc>
+    <lastmod>2019-06-05T00:02:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/slides/example/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    <loc>/tags/vaccines/</loc>
+    <lastmod>2019-06-05T00:02:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -202,59 +217,7 @@
   </url>
   
   <url>
-    <loc>/tags/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/demo/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/project/external-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/internal-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication_types/2/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication/journal-article/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/robert-ford/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication_types/1/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication/conference-paper/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <loc>/authors/admin/</loc>
   </url>
   
   <url>
@@ -263,7 +226,8 @@
   </url>
   
   <url>
-    <loc>/courses/</loc>
+    <loc>/publication_types/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>

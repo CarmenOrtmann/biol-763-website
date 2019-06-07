@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1559939194950.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2421932844",
+    "id" : "10EC58ED",
+    "lastKnownWriteTime" : 1559939371,
+    "last_content_update" : 1559939371781,
+    "path" : "~/R/Projects/biol-763-website/content/post/secondary-metabolites/index.Rmd",
+    "project_path" : "content/post/secondary-metabolites/index.Rmd",
+    "properties" : {
+        "cursorPosition" : "25,0",
+        "scrollLine" : "22"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

@@ -8,8 +8,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Are cosmetics going to be the only thing produced by SM using Biotechnology?"
-subtitle = ""
+title = "‘Secondary metabolites’: do modern biotechnological methods improvements make their value more than cosmetic?"
+subtitle = "This website serves to introduce primary and secondary metabolites and to enlighten the developments in the biotechnological field since the publication of an article written by MacQueen in 1988. "
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

@@ -12,29 +12,110 @@
     
     
     <item>
-      <title>antibodies</title>
-      <link>/tags/antibodies/</link>
+      <title>biotechnology</title>
+      <link>/tags/biotechnology/</link>
       <pubDate>Wed, 05 Jun 2019 00:05:00 +0000</pubDate>
       
-      <guid>/tags/antibodies/</guid>
+      <guid>/tags/biotechnology/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>pharmaceuticals</title>
-      <link>/tags/pharmaceuticals/</link>
+      <title>genetic modificaiton</title>
+      <link>/tags/genetic-modificaiton/</link>
       <pubDate>Wed, 05 Jun 2019 00:05:00 +0000</pubDate>
       
-      <guid>/tags/pharmaceuticals/</guid>
+      <guid>/tags/genetic-modificaiton/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>vaccines</title>
-      <link>/tags/vaccines/</link>
+      <title>metabolites</title>
+      <link>/tags/metabolites/</link>
       <pubDate>Wed, 05 Jun 2019 00:05:00 +0000</pubDate>
       
-      <guid>/tags/vaccines/</guid>
+      <guid>/tags/metabolites/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>primary</title>
+      <link>/tags/primary/</link>
+      <pubDate>Wed, 05 Jun 2019 00:05:00 +0000</pubDate>
+      
+      <guid>/tags/primary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>secondary</title>
+      <link>/tags/secondary/</link>
+      <pubDate>Wed, 05 Jun 2019 00:05:00 +0000</pubDate>
+      
+      <guid>/tags/secondary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>survival</title>
+      <link>/tags/survival/</link>
+      <pubDate>Wed, 05 Jun 2019 00:05:00 +0000</pubDate>
+      
+      <guid>/tags/survival/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>traditional medicine</title>
+      <link>/tags/traditional-medicine/</link>
+      <pubDate>Wed, 05 Jun 2019 00:05:00 +0000</pubDate>
+      
+      <guid>/tags/traditional-medicine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>compounds</title>
+      <link>/tags/compounds/</link>
+      <pubDate>Wed, 05 Jun 2019 00:04:01 +0000</pubDate>
+      
+      <guid>/tags/compounds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>economic</title>
+      <link>/tags/economic/</link>
+      <pubDate>Wed, 05 Jun 2019 00:04:01 +0000</pubDate>
+      
+      <guid>/tags/economic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>in vitro</title>
+      <link>/tags/in-vitro/</link>
+      <pubDate>Wed, 05 Jun 2019 00:04:01 +0000</pubDate>
+      
+      <guid>/tags/in-vitro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pathways</title>
+      <link>/tags/pathways/</link>
+      <pubDate>Wed, 05 Jun 2019 00:04:01 +0000</pubDate>
+      
+      <guid>/tags/pathways/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>toxicity</title>
+      <link>/tags/toxicity/</link>
+      <pubDate>Wed, 05 Jun 2019 00:04:01 +0000</pubDate>
+      
+      <guid>/tags/toxicity/</guid>
       <description></description>
     </item>
     
@@ -75,74 +156,92 @@
     </item>
     
     <item>
-      <title>primary</title>
-      <link>/tags/primary/</link>
+      <title>functional</title>
+      <link>/tags/functional/</link>
       <pubDate>Wed, 05 Jun 2019 00:03:02 +0000</pubDate>
       
-      <guid>/tags/primary/</guid>
+      <guid>/tags/functional/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>secondary</title>
-      <link>/tags/secondary/</link>
-      <pubDate>Wed, 05 Jun 2019 00:03:02 +0000</pubDate>
+      <title>Shikonine</title>
+      <link>/tags/shikonine/</link>
+      <pubDate>Wed, 05 Jun 2019 00:03:00 +0000</pubDate>
       
-      <guid>/tags/secondary/</guid>
+      <guid>/tags/shikonine/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>compounds</title>
-      <link>/tags/compounds/</link>
-      <pubDate>Wed, 05 Jun 2019 00:02:01 +0000</pubDate>
+      <title>medicine</title>
+      <link>/tags/medicine/</link>
+      <pubDate>Wed, 05 Jun 2019 00:03:00 +0000</pubDate>
       
-      <guid>/tags/compounds/</guid>
+      <guid>/tags/medicine/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>metabolites</title>
-      <link>/tags/metabolites/</link>
-      <pubDate>Wed, 05 Jun 2019 00:02:01 +0000</pubDate>
+      <title>pesticide</title>
+      <link>/tags/pesticide/</link>
+      <pubDate>Wed, 05 Jun 2019 00:03:00 +0000</pubDate>
       
-      <guid>/tags/metabolites/</guid>
+      <guid>/tags/pesticide/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>pathways</title>
-      <link>/tags/pathways/</link>
-      <pubDate>Wed, 05 Jun 2019 00:02:01 +0000</pubDate>
+      <title>antibodies</title>
+      <link>/tags/antibodies/</link>
+      <pubDate>Wed, 05 Jun 2019 00:02:00 +0000</pubDate>
       
-      <guid>/tags/pathways/</guid>
+      <guid>/tags/antibodies/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Source Themes</title>
-      <link>/tags/source-themes/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <title>biopharming</title>
+      <link>/tags/biopharming/</link>
+      <pubDate>Wed, 05 Jun 2019 00:02:00 +0000</pubDate>
       
-      <guid>/tags/source-themes/</guid>
+      <guid>/tags/biopharming/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Deep Learning</title>
-      <link>/tags/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <title>hairy root culture</title>
+      <link>/tags/hairy-root-culture/</link>
+      <pubDate>Wed, 05 Jun 2019 00:02:00 +0000</pubDate>
       
-      <guid>/tags/deep-learning/</guid>
+      <guid>/tags/hairy-root-culture/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Demo</title>
-      <link>/tags/demo/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <title>pharmaceuticals</title>
+      <link>/tags/pharmaceuticals/</link>
+      <pubDate>Wed, 05 Jun 2019 00:02:00 +0000</pubDate>
       
-      <guid>/tags/demo/</guid>
+      <guid>/tags/pharmaceuticals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tissue culture</title>
+      <link>/tags/tissue-culture/</link>
+      <pubDate>Wed, 05 Jun 2019 00:02:00 +0000</pubDate>
+      
+      <guid>/tags/tissue-culture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vaccines</title>
+      <link>/tags/vaccines/</link>
+      <pubDate>Wed, 05 Jun 2019 00:02:00 +0000</pubDate>
+      
+      <guid>/tags/vaccines/</guid>
       <description></description>
     </item>
     

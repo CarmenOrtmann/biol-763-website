@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>functional on Biology UKZN</title>
+    <link>/tags/functional/</link>
+    <description>Recent content in functional on Biology UKZN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 Jun 2019 00:03:02 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/functional/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Are secondary metabolites less important?</title>
+      <link>/post/importance/</link>
+      <pubDate>Wed, 05 Jun 2019 00:03:02 +0000</pubDate>
+      
+      <guid>/post/importance/</guid>
+      <description>Secondary metabolites were first distinguished from primary metabolites by Kossel (Bourgaud et al., 2001). The traditional name “secondary metabolites” has existed for decades, but this term may give the impression that these chemicals are of less importance than primary metabolites (Price-Whelan et al., 2006). This is not the case. For example, secondary metabolites used for pollination purposes may not be needed initially, however, once the plant reaches maturity and cannot reproduce asexually the plant relies on these chemicals to attract pollinators to facilitate sexual reproduction.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1559939253145.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1228122055",
+    "id" : "F09F4ADF",
+    "lastKnownWriteTime" : 1559939428,
+    "last_content_update" : 1559939428527,
+    "path" : "~/R/Projects/biol-763-website/content/post/importance/index.Rmd",
+    "project_path" : "content/post/importance/index.Rmd",
+    "properties" : {
+        "cursorPosition" : "13,74",
+        "scrollLine" : "4"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

@@ -6,176 +6,57 @@
     <description>Recent content on Biology UKZN</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jun 2019 00:05:00 +0000</lastBuildDate>
     
 	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Example Page 1</title>
-      <link>/courses/example/example1/</link>
-      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      
-      <guid>/courses/example/example1/</guid>
-      <description>
-
-&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
-
-&lt;h2 id=&#34;tip-11&#34;&gt;Tip 11&lt;/h2&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-
-&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Example Page 2</title>
-      <link>/courses/example/example2/</link>
-      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      
-      <guid>/courses/example/example2/</guid>
-      <description>
-
-&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
-
-&lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-
-&lt;h2 id=&#34;tip-4&#34;&gt;Tip 4&lt;/h2&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Example Talk</title>
-      <link>/talk/example/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      
-      <guid>/talk/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>How much has biotechnology evolved since the 1980s?</title>
-      <link>/post/biotech-now/</link>
+      <title>An overview - Plants, biotechnology and metabolites</title>
+      <link>/post/metabolites/</link>
       <pubDate>Wed, 05 Jun 2019 00:05:00 +0000</pubDate>
       
-      <guid>/post/biotech-now/</guid>
+      <guid>/post/metabolites/</guid>
       <description>
 
 
-&lt;p&gt;The difficulty with extraction and purification of secondary metabolites is that it is 1) difficult 2) costly and 3) time consuming. MacQueen (1988) highlighted some problems with the extraction of secondary metabolites and many of those difficulties are still problematic today.&lt;/p&gt;
-&lt;div id=&#34;current-technologies-include&#34; class=&#34;section level3&#34;&gt;
-&lt;h3&gt;Current technologies include:&lt;/h3&gt;
-&lt;p&gt;Biopharming or plant molecular farming is to genetically modify plants for the manufacturing of various pharmaceuticals and industrial products. For example, genetically modifying tobacco with desired therapeutic proteins could lead to the manufacturing of vaccines and antibodies to treat life-long diseases such as cancer. The products produced by such methods are referred to as ‘biopharmaceuticals’ or ‘biologics’.&lt;/p&gt;
+&lt;p&gt;Plants have been used as a source of traditional medicine for decades (Fennell et al., 2004). Most plants, especially medicinal plants have antibacterial, anti-inflammatory, antioxidant, antifungal, antischistosomal, anthelminthic, antimalarial and anti-amoebic properties (Fennell et al., 2004). However, purification and extraction processes differ between compounds with technological improvements being needed for more complex compounds. Plant compound extraction is mostly for commercial purposes, for example &lt;em&gt;in vitro&lt;/em&gt; methods may be used to produce large quantities to meet product demands (Bourgaud et al., 2001). Extracting material from plants has become easier with modern technology, however, there have been very few successful productions of valuable secondary metabolites (Bourgaud et al., 2001).&lt;/p&gt;
+&lt;p&gt;Biotechnology is known to be one of the greatest benefits to humankind and is constantly being improved (Boulter, 1995). Some of the earliest types of biotechnology included agriculture and making beer and bread (Boulter, 1995). Since then, technology has improved greatly; humans have managed to introduce desirable traits into organisms through genetic modification and engineering, especially in plants (Boulter, 1995; Bourgaud et al., 2001). These processes are referred to as plant biotechnology.&lt;/p&gt;
+&lt;p&gt;Cellular metabolism carries out important biochemical reactions through metabolites (Hussain et al., 2012). The metabolites that are found in plants are categorized into two categories, namely primary and secondary metabolites (MacQueen, 1988; Hussain et al., 2012). The first category is important for a plant’s growth and development; whilst the second category play a more vital role in the later stages of a plant’s life by contributing to the plant’s overall survival (Hussain et al., 2012). Secondary metabolite absence may not have short-term gains, however, it may affect the long-term survival of the plant (Hussain et al., 2012).&lt;/p&gt;
 &lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:unnamed-chunk-1&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;biopharming.jpg&#34; alt=&#34;Biopharming. [Click here to see more.](https://www.youtube.com/watch?v=d6m3SoKIStQ)&#34;  /&gt;
+&lt;img src=&#34;callus.jpeg&#34; alt=&#34;An example of plant biotechnology. A cell suspension culture showing friable callus (a mass of undifferentiated cells) from the hypocotyl of a plant.&#34;  /&gt;
 &lt;p class=&#34;caption&#34;&gt;
-Figure 1: Biopharming. &lt;a href=&#34;https://www.youtube.com/watch?v=d6m3SoKIStQ&#34;&gt;Click here to see more.&lt;/a&gt;
+Figure 1: An example of plant biotechnology. A cell suspension culture showing friable callus (a mass of undifferentiated cells) from the hypocotyl of a plant.
 &lt;/p&gt;
 &lt;/div&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/d6m3SoKIStQ&#34; frameborder=&#34;0&#34; allowfullscreen&gt;
-&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;div id=&#34;another-solution-may-be-the-use-of-in-vitro-methods&#34; class=&#34;section level3&#34;&gt;
-&lt;h3&gt;Another solution may be the use of in vitro methods&lt;/h3&gt;
-&lt;p&gt;Cell suspension culture
-This method submerges plant cells in a liquid, the cells in the culture will multiply.&lt;/p&gt;
 &lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:unnamed-chunk-2&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;agrobacterium.gif&#34; alt=&#34;The establishment of suspension cultures&#34;  /&gt;
+&lt;img src=&#34;pathways.png&#34; alt=&#34;Linkages between primary and secondary metabolites. [Click here to see more.](https://www.intechopen.com/books/secondary-metabolites-sources-and-applications/an-introductory-chapter-secondary-metabolites)&#34;  /&gt;
 &lt;p class=&#34;caption&#34;&gt;
-Figure 2: The establishment of suspension cultures
+Figure 2: Linkages between primary and secondary metabolites. &lt;a href=&#34;https://www.intechopen.com/books/secondary-metabolites-sources-and-applications/an-introductory-chapter-secondary-metabolites&#34;&gt;Click here to see more.&lt;/a&gt;
 &lt;/p&gt;
 &lt;/div&gt;
 &lt;hr /&gt;
-&lt;/div&gt;
 </description>
     </item>
     
     <item>
-      <title>Examples of the uses of secondary metabolites</title>
-      <link>/post/examples/</link>
-      <pubDate>Wed, 05 Jun 2019 00:04:00 +0000</pubDate>
+      <title>A closer look at secondary metabolites</title>
+      <link>/post/secondary-metabolites/</link>
+      <pubDate>Wed, 05 Jun 2019 00:04:01 +0000</pubDate>
       
-      <guid>/post/examples/</guid>
+      <guid>/post/secondary-metabolites/</guid>
       <description>
 
 
-&lt;div id=&#34;although-plants-may-survive-without-the-use-of-secondary-metabolites.-the-extracts-of-these-compounds-have-great-advantages&#34; class=&#34;section level3&#34;&gt;
-&lt;h3&gt;Although plants may survive without the use of secondary metabolites. The extracts of these compounds have great advantages:&lt;/h3&gt;
-&lt;/div&gt;
-&lt;div id=&#34;for-example&#34; class=&#34;section level3&#34;&gt;
-&lt;h3&gt;For example&lt;/h3&gt;
-&lt;p&gt;&lt;em&gt;Shikonine&lt;/em&gt; is a green pigment that is manufactured by &lt;em&gt;Lithospermum eryrorhizon&lt;/em&gt; cells which has been used for cosmetics such as lipsticks.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Vincristine&lt;/em&gt; is manufactured by &lt;em&gt;Vinca rosea&lt;/em&gt; and is helpful for treating cancer.&lt;/p&gt;
-&lt;p&gt;Other compounds which used to treat cardiovascular disorders include &lt;em&gt;Digoxin&lt;/em&gt; compounds.&lt;/p&gt;
-&lt;p&gt;And &lt;em&gt;Pyrithrin&lt;/em&gt; is a compound used as an insecticide.&lt;/p&gt;
+&lt;p&gt;Secondary metabolites manufactured in the secondary metabolism of plants provide many health and economic benefits to humans (Tiwari and Rana, 2015). Primary metabolites include a narrow range of compounds (proteins, carbohydrates, and lipids), whilst secondary metabolites entail a wider range of compounds (alkaloids, steroids, flavonoids, tannins, phenolics, etc.) (Class notes, Prof Finnie, 2019). Most of these secondary metabolite compounds are produced by plants as a defence mechanism against toxins and pathogens from their surrounding environment (Bourgaud et al., 2001). According to Tiwari and Rana (2015), the quantity of secondary metabolites produced from mature plants (which have differentiated tissues) &lt;em&gt;in vitro&lt;/em&gt; have shown to be significantly more than immature plants(which have non-differentiated tissues).&lt;/p&gt;
 &lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:unnamed-chunk-1&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;callus.jpeg&#34; alt=&#34;An example of plant biotechnology: A cell suspension culture showing friable callus (a mass of undifferentiated cells) from the hypocotyl of a plant.&#34;  /&gt;
+&lt;img src=&#34;secondary.gif&#34; alt=&#34;The structures of common secondary metabolites.&#34;  /&gt;
 &lt;p class=&#34;caption&#34;&gt;
-Figure 1: An example of plant biotechnology: A cell suspension culture showing friable callus (a mass of undifferentiated cells) from the hypocotyl of a plant.
+Figure 1: The structures of common secondary metabolites.
 &lt;/p&gt;
 &lt;/div&gt;
-&lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:unnamed-chunk-2&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;pathways.png&#34; alt=&#34;Indicating the link between primary and secondary metabolites.  [Click here to see more.](https://www.intechopen.com/books/secondary-metabolites-sources-and-applications/an-introductory-chapter-secondary-metabolites)&#34;  /&gt;
-&lt;p class=&#34;caption&#34;&gt;
-Figure 2: Indicating the link between primary and secondary metabolites. &lt;a href=&#34;https://www.intechopen.com/books/secondary-metabolites-sources-and-applications/an-introductory-chapter-secondary-metabolites&#34;&gt;Click here to see more.&lt;/a&gt;
-&lt;/p&gt;
-&lt;/div&gt;
+&lt;p&gt;For centuries, these compounds have played an important role in traditional medicines, however, their discoveries have often been linked to their high toxicity levels (Bourgaud et al., 2001). Toxic plants applied medically often work more quickly and their benefits are therefore seen more rapidly than those of non-toxic plants (Bourgaud et al., 2001; Class notes, Prof Finnie, 2019). Secondary metabolites are economically important for the synthesis of drugs, flavourants, fragrances, insecticides, and dyes (Pagare et al., 2015; Tiwari and Rana, 2015). For example, a diterpene alkaloid, Taxol (paclitaxel), is found in the bark of &lt;em&gt;Taxus&lt;/em&gt; trees and is known for its anticancer effects (Hussain et al., 2012). These compounds are very specific as they usually only occur in specific areas within plants (Bourgaud et al., 2001; Hussain et al., 2012). In addition, secondary metabolites are sometimes unique to specific species or taxon groups (Hussain et al., 2012). These compounds generally accumulate in small quantities and are therefore difficult to extract and purify (Bourgaud et al., 2001). This is one of the main reasons why the commercial products produced by these compounds are often very expensive.&lt;/p&gt;
 &lt;hr /&gt;
-&lt;/div&gt;
 </description>
     </item>
     
@@ -188,16 +69,42 @@ Figure 2: Indicating the link between primary and secondary metabolites. &lt;a h
       <description>
 
 
-&lt;p&gt;Secondary metabolites were first distinguished from primary metabolites by Kossel (Bourgaud et al., 2001). However, although the traditional name “secondary metabolites” has existed for decades name, this name may give the impression that these chemicals are of less importance than primary metabolites. This is not always the case, for example, if a secondary metabolite is used for pollination purposes, the plant may only need the chemical as a mature plant but if the plant cannot produce by asexual means, it would need such chemicals to further its population. To illustrate an example of the importance of volatiles in pollination biology, two Zaluzianskya flower species have overlapping opening times but one is pollinated by hawkmoths and the other by flies, and Campbell et al. (2016) found that hawkmoths were attracted to the one species over the other due to the combination of the scent and orientation of the flowers.&lt;/p&gt;
+&lt;p&gt;Secondary metabolites were first distinguished from primary metabolites by Kossel (Bourgaud et al., 2001). The traditional name “secondary metabolites” has existed for decades, but this term may give the impression that these chemicals are of less importance than primary metabolites (Price-Whelan et al., 2006). This is not the case. For example, secondary metabolites used for pollination purposes may not be needed initially, however, once the plant reaches maturity and cannot reproduce asexually the plant relies on these chemicals to attract pollinators to facilitate sexual reproduction. To illustrate an example of volatile (chemical pheremones released by plants to attract specific types of pollinators) importance in pollination biology, Campbell et al. (2016) used two &lt;em&gt;Zaluzianskya&lt;/em&gt; flower species. These were pollinated by flies and hawkmoths and have overlapping flower opening times. In this experiment, they found a distinct attraction by hawkmoths to one species over the other due to the combination flower scent and flower orientation (Campbell et al., 2016).&lt;/p&gt;
 &lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:unnamed-chunk-1&#34;&gt;&lt;/span&gt;
 &lt;img src=&#34;hawkmoth.jpg&#34; alt=&#34;A hawkmoth visiting the night blooming *Zaluzianskya capensis*.  [Click here to see more.](https://nph.onlinelibrary.wiley.com/doi/pdf/10.1111/nph.13746)&#34;  /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 Figure 1: A hawkmoth visiting the night blooming &lt;em&gt;Zaluzianskya capensis&lt;/em&gt;. &lt;a href=&#34;https://nph.onlinelibrary.wiley.com/doi/pdf/10.1111/nph.13746&#34;&gt;Click here to see more.&lt;/a&gt;
 &lt;/p&gt;
 &lt;/div&gt;
-&lt;p&gt;The vacuity of the definition of a secondary metabolite is somewhat confusing and thus there has been debate around this term (Price-Whelan et al., 2006). A study by Price-Whelan et al. (2006) uses the roles of a secondary metabolite – phenazine antibiotics to contest the use of secondary metabolites. Explain further….&lt;/p&gt;
-&lt;p&gt;The wide range of chemicals and compounds that currently constitute secondary metabolites makes it difficult to rename. In addition, renaming this term may lead to complexity or we may stray further from the correct grouping. In my opinion, ‘secondary metabolites’ has been given a term that is too broad and might need to be split into more than one term. However, literature highlights that the differences between the compounds within this group are difficult to determine especially since there they are classified as relatively rare and specific.&lt;/p&gt;
-&lt;p&gt;Come up with one name.&lt;/p&gt;
+&lt;p&gt;The definition of a secondary metabolite is vague and somewhat confusing which has stirred a debate on the naming of these compounds (Price-Whelan et al., 2006). However, the compounds found within this group have such a wide range categorized by&lt;/p&gt;
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;Their chemical structure (most of which have rings which contain a sugar)&lt;br /&gt;
+&lt;/li&gt;
+&lt;li&gt;Their composition of nitrogen&lt;br /&gt;
+&lt;/li&gt;
+&lt;li&gt;Their solubility&lt;br /&gt;
+&lt;/li&gt;
+&lt;li&gt;The pathway that is used to produce them (for example, tannins are produced by the phenylpropanoid pathway) (Tiwari and Rana, 2015)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;In addition to these shared characteristics, these compounds are rare and specific making it difficult to classify all chemicals within secondary metabolite groups (Class notes, Prof Finnie, 2019). Given these shared characteristics, three main groups can be identified: alkaloids, phenolics, and steroids and terpenes (Tiwari and Rana, 2015).&lt;/p&gt;
+&lt;p&gt;In my opinion, ‘secondary metabolites’ have been given a term that is too broad. This is likely because of their often very similar chemical and molecular structure. Therefore, it might be useful to be split these compounds into more than one term. One possibility is to group these compounds based on the kind of function they provide to the plant. These categories may include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Defence compounds
+&lt;ul&gt;
+&lt;li&gt;chemical&lt;br /&gt;
+&lt;/li&gt;
+&lt;li&gt;physical&lt;br /&gt;
+&lt;/li&gt;
+&lt;li&gt;repair&lt;br /&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Stress tolerance compounds&lt;br /&gt;
+&lt;/li&gt;
+&lt;li&gt;Pollination pheremone compounds&lt;br /&gt;
+&lt;/li&gt;
+&lt;li&gt;And supplementary compounds&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;A possible alternative to the current terminology would therefore be to change the term secondary metabolites to &lt;strong&gt;functional metabolites&lt;/strong&gt; and retain the term primary metabolites.&lt;/p&gt;
 &lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:unnamed-chunk-2&#34;&gt;&lt;/span&gt;
 &lt;img src=&#34;callus.jpeg&#34; alt=&#34;An example of plant biotechnology: A cell suspension culture showing friable callus (a mass of undifferentiated cells) from the hypocotyl of a plant.&#34;  /&gt;
 &lt;p class=&#34;caption&#34;&gt;
@@ -209,255 +116,116 @@ Figure 2: An example of plant biotechnology: A cell suspension culture showing f
     </item>
     
     <item>
-      <title>A closer look at secondary metabolites</title>
-      <link>/post/secondary-metabolites/</link>
-      <pubDate>Wed, 05 Jun 2019 00:02:01 +0000</pubDate>
+      <title>Examples of the uses of secondary metabolites</title>
+      <link>/post/examples/</link>
+      <pubDate>Wed, 05 Jun 2019 00:03:00 +0000</pubDate>
       
-      <guid>/post/secondary-metabolites/</guid>
+      <guid>/post/examples/</guid>
       <description>
 
 
-&lt;p&gt;Whilst primary metabolites include only a small range of compounds (proteins, carbohydrates, and lipids), secondary metabolites entail a wide range of compounds (alkaloids, steroids, flavonoids, tannins, phenolics etcetera) (Class notes, Prof Finnie, 2019). Most secondary metabolite compounds are produced by plants as a defence mechanism, protecting themselves against toxins and pathogens in their surroundings (Bourgaud et al., 2001). Some compounds in this group are have the ability to protect plants against harmful ultra violet rays whilst others release toxins that deter herbivorous insects and animals (Bourgaud et al., 2001).&lt;/p&gt;
-&lt;p&gt;For centuries, these compounds have played an important role in traditional medicines, their discovery is often due to their high toxicity levels, which increase the visibility of effectiveness (may show effects in only a few hours) (Bourgaud et al., 2001) (Class notes, Prof Finnie, 2019). Secondary metabolites are considered economically important for the use of drugs, flavours, fragrances, insecticides, and dyes (Pagare et al., 2015). For example, a diterpene alkaloid, Taxol (paclitaxel), is found in the bark of Taxus trees and is known for its anticancer effects (Hussain et al., 2012).&lt;/p&gt;
-&lt;p&gt;These compounds are very specific as they usually only occur in specific localities in plants and are not widely distributed among taxa or species (Hussain et al., 2012). They usually accumulate in small quantities and are therefore difficult to extract and purify, which is among the main reasons for their high economic value (Bourgaud et al., 2001).&lt;/p&gt;
+&lt;div id=&#34;although-plants-may-survive-without-the-use-of-secondary-metabolites-these-compound-extracts-have-great-advantages&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Although plants may survive without the use of secondary metabolites these compound extracts have great advantages:&lt;/h3&gt;
+&lt;/div&gt;
+&lt;div id=&#34;for-example&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;For example&lt;/h3&gt;
 &lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:unnamed-chunk-1&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;callus.jpeg&#34; alt=&#34;An example of plant biotechnology: A cell suspension culture showing friable callus (a mass of undifferentiated cells) from the hypocotyl of a plant.&#34;  /&gt;
+&lt;img src=&#34;lipstick.jpg&#34; alt=&#34;**Shikonine** is a red pigment that is manufactured by *Lithospermum eryrorhizon* cells which has been used for cosmetics such as lipsticks. &#34;  /&gt;
 &lt;p class=&#34;caption&#34;&gt;
-Figure 1: An example of plant biotechnology: A cell suspension culture showing friable callus (a mass of undifferentiated cells) from the hypocotyl of a plant.
+Figure 1: &lt;strong&gt;Shikonine&lt;/strong&gt; is a red pigment that is manufactured by &lt;em&gt;Lithospermum eryrorhizon&lt;/em&gt; cells which has been used for cosmetics such as lipsticks.
 &lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:unnamed-chunk-2&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;pathways.png&#34; alt=&#34;Indicating the link between primary and secondary metabolites.  [Click here to see more.](https://www.intechopen.com/books/secondary-metabolites-sources-and-applications/an-introductory-chapter-secondary-metabolites)&#34;  /&gt;
+&lt;img src=&#34;vincristine.jpg&#34; alt=&#34;**Vincristine sulphate** is manufactured from *Vinca rosea* and is helpful for treating cancer. &#34;  /&gt;
 &lt;p class=&#34;caption&#34;&gt;
-Figure 2: Indicating the link between primary and secondary metabolites. &lt;a href=&#34;https://www.intechopen.com/books/secondary-metabolites-sources-and-applications/an-introductory-chapter-secondary-metabolites&#34;&gt;Click here to see more.&lt;/a&gt;
+Figure 2: &lt;strong&gt;Vincristine sulphate&lt;/strong&gt; is manufactured from &lt;em&gt;Vinca rosea&lt;/em&gt; and is helpful for treating cancer.
 &lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Other compounds which are used to treat cardiovascular disorders include &lt;strong&gt;Digoxin&lt;/strong&gt;.&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:unnamed-chunk-3&#34;&gt;&lt;/span&gt;
+&lt;img src=&#34;digoxin.png&#34; alt=&#34;Structure of Digoxin.&#34;  /&gt;
+&lt;p class=&#34;caption&#34;&gt;
+Figure 3: Structure of Digoxin.
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:unnamed-chunk-4&#34;&gt;&lt;/span&gt;
+&lt;img src=&#34;sun.gif&#34; alt=&#34;Some secondary metabolites have the ability to protect plants against harmful UV rays (Bourgaud et al., 2001). Here, secondary metabolites are produced by redirecting the primary metabolism in plants leading to protection of leaves from UV rays.&#34;  /&gt;
+&lt;p class=&#34;caption&#34;&gt;
+Figure 4: Some secondary metabolites have the ability to protect plants against harmful UV rays (Bourgaud et al., 2001). Here, secondary metabolites are produced by redirecting the primary metabolism in plants leading to protection of leaves from UV rays.
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:unnamed-chunk-5&#34;&gt;&lt;/span&gt;
+&lt;img src=&#34;insect.jpg&#34; alt=&#34;Some compounds may release toxins that deter herbivorous insects and animals, for example, **Pyrithrin** is a compound used as an insecticide.&#34;  /&gt;
+&lt;p class=&#34;caption&#34;&gt;
+Figure 5: Some compounds may release toxins that deter herbivorous insects and animals, for example, &lt;strong&gt;Pyrithrin&lt;/strong&gt; is a compound used as an insecticide.
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;hr /&gt;
 &lt;/div&gt;
 </description>
     </item>
     
     <item>
-      <title>An overview - Plants, biotechnology and metabolites</title>
-      <link>/post/metabolites/</link>
-      <pubDate>Wed, 05 Jun 2019 00:01:00 +0000</pubDate>
+      <title>How much has biotechnology evolved since the 1980s?</title>
+      <link>/post/biotech-now/</link>
+      <pubDate>Wed, 05 Jun 2019 00:02:00 +0000</pubDate>
       
-      <guid>/post/metabolites/</guid>
+      <guid>/post/biotech-now/</guid>
       <description>
 
 
-&lt;p&gt;Plants have been used as a source of traditional medicine for decades (Fennell et al., 2004). The authors (Fennell et al., 2004) mention the important uses of plant compounds, they include antibacterial, anti-inflammatory, antioxidant, antifungal, antischistosomal, anthelminthic, antimalarial and anti-amoebic (Fennell et al., 2004). However, with the increased uses of plants, new methodology is needed to make the extraction and purification of compounds from plants easier and to produce higher quantities of the compounds, often for commercial purposes, this is often done by in vitro methods (Bourgaud et al., 2001). Extracting material from plants has become easier with the use modern technologies, however, there have been very few successful productions of valuable secondary metabolites (Bourgaud et al., 2001).&lt;/p&gt;
-&lt;p&gt;Biotechnology is known to be one of the greatest benefits to humankind (Boulter, 1995). Humans have manipulated living organisms for decades. Some of the earliest types of biotechnology included agriculture, beer and the making of bread (Boulter, 1995). Since then, technology has improved greatly; humans have managed to introduce desirable traits into organisms through genetic modification and engineering, especially in plants, this is referred to as plant biotechnology (Boulter, 1995; Bourgaud et al., 2001), another well-used technique is tissue culture.&lt;/p&gt;
-&lt;p&gt;Metabolites play an important role in the metabolism, which carries out important biochemical reactions (Hussain et al., 2012), and are found in all kingdoms. The metabolites that are found in plants are categorized into two categories, namely primary metabolites and secondary metabolites (MacQueen, 1988; Hussain et al., 2012). Primary metabolites are important for a plant’s development and growth whilst secondary metabolites do not play an important role in the growth and development of the plant but may be vital for the overall survival of the plant (Hussain et al., 2012). The absence of secondary metabolites may not affect the plant in the short-term, however, it may affect the long-term survival of the plant (Hussain et al., 2012). Add more references.&lt;/p&gt;
+&lt;p&gt;The struggle with extraction and purification of secondary metabolites is that it is 1) difficult 2) costly and 3) time consuming (Class notes, Prof Finnie, 2019). Third world countries are often not politically or economically stable and so expencive techniques are not easily available to these nations. MacQueen (1988) highlighted some difficulties with the extraction of secondary metabolites and many of those difficulties are still problematic today. In addition, the size of natural habitats are decreasing because of anthropically driven global change (Lewis and Maslin, 2015; Isbell et al., 2017). This causes plants which have specific distribution localities to become extinct (Hussain et al., 2012). Therefore, relying on the plants occurring in natural habitats may not be realistic for the large amounts of produce that is required. Some alternatives or solutions for this increased demand include biopharming and &lt;em&gt;in vitro&lt;/em&gt; methods.&lt;/p&gt;
+&lt;div id=&#34;biopharming-or-plant-molecular-farming-pmf&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Biopharming or plant molecular farming (PMF)&lt;/h3&gt;
+&lt;p&gt;This process genetically modifies plants for the manufacturing of various pharmaceuticals and industrial products (Elbehri, 2005). For example, genetically modifying tobacco or corn with desired therapeutic proteins could produce vaccines, drugs and antibodies for treating life-long diseases such as cancer and cardiovascular diseases (Elbehri, 2005). The products produced by such methods are referred to as ‘biopharmaceuticals’ or ‘biologics’ (Elbehri, 2005).&lt;/p&gt;
+&lt;p&gt;The use of biopharming could be seen as an alternative to current methods or as an implementation in response to the increased demands from the growing human population (Elbehri, 2005; Yadav, 2010). However, this concept has not yet been fully accepted, A &lt;a href=&#34;http://www.pub.ac.za/wp-content/uploads/2015/06/Factsheet-Pub-BioPharming2PRINT3.pdf&#34;&gt;Public Understanding of Biotechnology factsheet&lt;/a&gt; addresses some of the concerns, whilst highlighting the advantages that this implementation could bring about. These include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Advantages&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;The possibility of large scale productions.&lt;br /&gt;
+&lt;/li&gt;
+&lt;li&gt;Lowered production costs as current technology includes costly machinery and techniques.&lt;/li&gt;
+&lt;li&gt;The use of plants may include the possibility to produce more complex drugs, especially when compared to those produced in genetically modified animals.&lt;br /&gt;
+&lt;/li&gt;
+&lt;li&gt;This may be a safer vaccine and antigen production.&lt;/li&gt;
+&lt;li&gt;A helpful way to increase the availability of vaccines and treatment to third world countries.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Disadvantages&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Contamination of the food chain.&lt;/li&gt;
+&lt;li&gt;Allergic reactions to the products produced.&lt;br /&gt;
+&lt;/li&gt;
+&lt;li&gt;Negative impacts on non-target organisms such as herbivores.&lt;br /&gt;
+&lt;/li&gt;
+&lt;li&gt;Workers may be exposed to health risks if exposed to the plants for prolonged periods.&lt;br /&gt;
+&lt;/li&gt;
+&lt;li&gt;Plants dosages may need quality control.&lt;br /&gt;
+&lt;/li&gt;
+&lt;li&gt;Chemicals used to treat the crops may have unexpected outcomes on the final product.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/d6m3SoKIStQ&#34; frameborder=&#34;0&#34; allowfullscreen&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;div id=&#34;in-vitro-methods&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;&lt;em&gt;In vitro&lt;/em&gt; methods&lt;/h3&gt;
+&lt;p&gt;An alternative solution to chemical synthesis and whole plant based extraction may be the use of sterile environment &lt;em&gt;in vitro&lt;/em&gt; methods. Such methods do not take place inside an organism but rather in a test tube or culture plate. Tissue culture (a process established in the 1960’s) is currently one of the successful methods for extrating secondary metabolites (Tiwari and Rana, 2015). However, even with increased focus on improving biotechnological techniques over the past 30 – 40 years, this method is not perfect (Tiwari and Rana, 2015). An especially difficult aspect in tissue culture is the limited nature and specificity of the secondary metabolites in plants. Plants often produced secondary metabolites in response to environmental stressors such as pathgens but encourntereing these is very unlikely in sterile environments (Class notes, Prof Finnie, 2019. However, this problem may be solved with the introduction of elicitors (which deceive plants by mimicking the attack of a pathogen or fungus which in turn triggers the production of secondary metabolites), signal compounds, and biotic stresses (MacQueen, 1988; Tiwari and Rana, 2015). Another complexity of using cultures is to find the optimum media, the correct explant (the parent plant which the culture is grown from), and culture conditions such as temperature, pH, oxygen, and chemical precursors, to promote optimum culture growth (Class notes, Prof Finnie, 2019).&lt;/p&gt;
+&lt;p&gt;Despite all this the benefits of tissue culture include 1) a controlled environment with no competition, 2) limited contamination from microbes and insects, 3) increased potential for any type of plant cell division which promotes the possibility of specific metabolite extraction, 4) an increased overall productivity and decreased labour costs and 5) callus cultures allow for extraction of organic compounds (Tiwari and Rana, 2015).&lt;/p&gt;
 &lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:unnamed-chunk-1&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;callus.jpeg&#34; alt=&#34;An example of plant biotechnology: A cell suspension culture showing friable callus (a mass of undifferentiated cells) from the hypocotyl of a plant.&#34;  /&gt;
+&lt;img src=&#34;tissue.gif&#34; alt=&#34;Basic tissue culture technique.&#34;  /&gt;
 &lt;p class=&#34;caption&#34;&gt;
-Figure 1: An example of plant biotechnology: A cell suspension culture showing friable callus (a mass of undifferentiated cells) from the hypocotyl of a plant.
+Figure 1: Basic tissue culture technique.
 &lt;/p&gt;
 &lt;/div&gt;
+&lt;p&gt;Hairy root cultures are a type of tissue culture that can also be used to produce secondary metabolites through genetic engineering. &lt;em&gt;Rhizobium rhizogenes&lt;/em&gt; is a bacterium that occurs in soils and has root-inducing (Ri) plasmids (Pistelli et al., 2010). These plasmids infect root growth and the roots grow irregularly which makes it easier to harvest compounds from them (Pistelli et al., 2010). This method has high genetic stability and productivity (Pistelli et al., 2010).&lt;/p&gt;
 &lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:unnamed-chunk-2&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;pathways.png&#34; alt=&#34;Indicating the link between primary and secondary metabolites.  [Click here to see more.](https://www.intechopen.com/books/secondary-metabolites-sources-and-applications/an-introductory-chapter-secondary-metabolites)&#34;  /&gt;
+&lt;img src=&#34;root.png&#34; alt=&#34;An example of Agrobacterium rhizogenes-mediated hairy root culture in *Gentiana scabra*.&#34;  /&gt;
 &lt;p class=&#34;caption&#34;&gt;
-Figure 2: Indicating the link between primary and secondary metabolites. &lt;a href=&#34;https://www.intechopen.com/books/secondary-metabolites-sources-and-applications/an-introductory-chapter-secondary-metabolites&#34;&gt;Click here to see more.&lt;/a&gt;
+Figure 2: An example of Agrobacterium rhizogenes-mediated hairy root culture in &lt;em&gt;Gentiana scabra&lt;/em&gt;.
 &lt;/p&gt;
 &lt;/div&gt;
 &lt;hr /&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example preprint / working paper</title>
-      <link>/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/preprint/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
 &lt;/div&gt;
-
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Slides</title>
-      <link>/slides/example/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/slides/example/</guid>
-      <description>
-
-&lt;h1 id=&#34;welcome-to-slides&#34;&gt;Welcome to Slides&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34;&gt;Academic&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
-&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
-&lt;li&gt;Supports speaker notes&lt;/li&gt;
-&lt;li&gt;Mobile friendly slides&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
-
-&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;Code block:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
-if porridge == &amp;quot;blueberry&amp;quot;:
-    print(&amp;quot;Eating...&amp;quot;)
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
-
-&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
-
-&lt;p&gt;Block math:&lt;/p&gt;
-
-&lt;p&gt;$$
-f\left( x \right) = \;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
-$$&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
-
-&lt;p&gt;Make content appear incrementally&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
-{{% fragment %}} **Two** {{% /fragment %}}
-{{% fragment %}} Three {{% /fragment %}}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
-   One
-&lt;/span&gt;
-&lt;span class=&#34;fragment &#34; &gt;
-   &lt;strong&gt;Two&lt;/strong&gt;
-&lt;/span&gt;
-&lt;span class=&#34;fragment &#34; &gt;
-   Three
-&lt;/span&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
-
-&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
-- Only the speaker can read these notes
-- Press `S` key to view
-{{% /speaker_note %}}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
-
-&lt;aside class=&#34;notes&#34;&gt;
-  &lt;ul&gt;
-&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
-&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/aside&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
-&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
-&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
-&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
-&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;ul&gt;
-&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
-&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
-&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
-&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-
-&lt;section data-noprocess data-shortcode-slide
-  
-      
-      data-background-image=&#34;/img/boards.jpg&#34;
-  &gt;
-
-
-&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
-
-&lt;p&gt;Customize the slide style and background&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/img/boards.jpg&amp;quot; &amp;gt;}}
-{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
-{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
-
-&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
-
-&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
-.reveal section h2,
-.reveal section h3 {
-  color: navy;
-}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;hr /&gt;
-
-&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -468,77 +236,6 @@ $$&lt;/p&gt;
       
       <guid>/privacy/</guid>
       <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>External Project</title>
-      <link>/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/project/external-project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Internal Project</title>
-      <link>/project/internal-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/project/internal-project/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example journal article</title>
-      <link>/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example conference paper</title>
-      <link>/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
