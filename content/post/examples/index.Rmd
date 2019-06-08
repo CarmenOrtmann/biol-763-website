@@ -41,6 +41,10 @@ knitr::include_graphics("./sun.gif")
 knitr::include_graphics("./insect.jpg")
 ``` 
 
+```{r, fig.cap="The Madagascar Periwinkel, also mentioned by MacQueen (1988) has useful secondary metabolites (**ajmalicine**) which help lower blood pressure. ", echo=FALSE}
+knitr::include_graphics("./peri.jpg")
+``` 
+
 __________________________________________________________________________
 
  

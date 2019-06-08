@@ -1,24 +1,24 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1559939287827.000,
+    "created" : 1560022506761.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "349399233",
-    "id" : "DFCBAAAE",
-    "lastKnownWriteTime" : 1559941808,
-    "last_content_update" : 1559941808167,
+    "hash" : "3932988623",
+    "id" : "F1C3FA50",
+    "lastKnownWriteTime" : 1560023240,
+    "last_content_update" : 1560023240874,
     "path" : "~/R/Projects/biol-763-website/content/post/biotech-now/index.Rmd",
     "project_path" : "content/post/biotech-now/index.Rmd",
     "properties" : {
-        "cursorPosition" : "29,0",
-        "scrollLine" : "43"
+        "cursorPosition" : "52,320",
+        "scrollLine" : "49"
     },
     "read_only" : false,
     "read_only_alternatives" : [
     ],
-    "relative_order" : 5,
+    "relative_order" : 2,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "r_markdown"

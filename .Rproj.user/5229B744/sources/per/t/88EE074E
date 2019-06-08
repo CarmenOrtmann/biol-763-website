@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1560024207231.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3908069287",
+    "id" : "88EE074E",
+    "lastKnownWriteTime" : 1560024305,
+    "last_content_update" : 1560024305087,
+    "path" : "~/R/Projects/biol-763-website/content/home/references.md",
+    "project_path" : "content/home/references.md",
+    "properties" : {
+        "cursorPosition" : "80,0",
+        "scrollLine" : "72"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}
