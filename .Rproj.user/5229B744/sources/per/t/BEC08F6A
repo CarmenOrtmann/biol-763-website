@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1559942823803.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "887883353",
+    "id" : "BEC08F6A",
+    "lastKnownWriteTime" : 1560007528,
+    "last_content_update" : 1560007528752,
+    "path" : "~/R/Projects/biol-763-website/content/authors/carmen/_index.md",
+    "project_path" : "content/authors/carmen/_index.md",
+    "properties" : {
+        "cursorPosition" : "42,884",
+        "scrollLine" : "40"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 10,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}
