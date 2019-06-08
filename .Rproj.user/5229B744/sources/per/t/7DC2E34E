@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1560025954115.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1459035678",
+    "id" : "7DC2E34E",
+    "lastKnownWriteTime" : 1560025967,
+    "last_content_update" : 1560025967641,
+    "path" : "~/R/Projects/biol-763-website/content/post/metabolites/index.Rmd",
+    "project_path" : "content/post/metabolites/index.Rmd",
+    "properties" : {
+        "cursorPosition" : "17,505",
+        "ignored_words" : "Bourgaud,et,al,Hussain,MacQueen,png,Fennell,antifungal,antischistosomal,anthelminthic,vitro\n",
+        "scrollLine" : "18"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
